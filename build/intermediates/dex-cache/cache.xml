@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\sangitashres\AndroidStudioProjects\InsertDatabase\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7d95389d0bcd46d5bdba7eb25d088c2139e2551">
+        <dex dex="C:\Users\sangitashres\AndroidStudioProjects\InsertDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_25899cc8680ff60aba42b679c2190900749a1b4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sangitashres\.android\build-cache\b7acb9c9d7cf00419ed9866a03154ccf081e009d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\sangitashres\AndroidStudioProjects\InsertDatabase\app\build\intermediates\pre-dexed\debug\classes_93000825faaeecfdabab5720e8c5c98b013d0053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sangitashres\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\sangitashres\AndroidStudioProjects\InsertDatabase\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_b5b60ba61e30d23c6895028d0eeab8d13c1d8674.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sangitashres\.android\build-cache\b7acb9c9d7cf00419ed9866a03154ccf081e009d\output\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\sangitashres\AndroidStudioProjects\InsertDatabase\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_885eff1858fd8ddb1e4f697c4261d58d35af611a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sangitashres\.android\build-cache\f24e6386e114120b20238409e8e9167838ec491d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\sangitashres\AndroidStudioProjects\InsertDatabase\app\build\intermediates\pre-dexed\debug\classes_48fb9ee93321c294c604062475ee0aed527fb280.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sangitashres\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\sangitashres\AndroidStudioProjects\InsertDatabase\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_f65ba8bfa79133d28daba3b82323e2a308387caf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sangitashres\.android\build-cache\b37b870c7c3855eed7ae1cadbaa84d669c38d8a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\sangitashres\AndroidStudioProjects\InsertDatabase\app\build\intermediates\pre-dexed\debug\classes_327594419073f924a9d2ea3c49971c01bf99405d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sangitashres\AndroidStudioProjects\InsertDatabase\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\sangitashres\AndroidStudioProjects\InsertDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a9ed5f52c5cea0011f75fc96ed6bf327465ae2da\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sangitashres\.android\build-cache\9ab7b7a6e69d141477e32cf184c7bf7a8548ec09\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\sangitashres\AndroidStudioProjects\InsertDatabase\app\build\intermediates\pre-dexed\debug\classes_0a0104eb9c92ed211347b1a5ee2d6f15d5afe964.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sangitashres\.android\build-cache\47d0fb12f26dca373937b47598671ac337d43ee6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\sangitashres\AndroidStudioProjects\InsertDatabase\app\build\intermediates\pre-dexed\debug\classes_b17dab38be457eb8098c39b5563f69e4db9fe9d9.jar" />
+    </item>
+
+</items>
